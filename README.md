@@ -13,8 +13,7 @@ Then open in your preferred text editor:
 - [emmacs](https://www.gnu.org/software/emacs/)
 - [visual studio code](https://code.visualstudio.com/) 
 
-## Website view
-![Web screenshot](dashborad.png)
+
 
 
 ## Built With
