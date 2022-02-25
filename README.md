@@ -30,8 +30,6 @@ Then open in your preferred text editor:
 ## Contributing
 Arcan Caglayan
 
-- [Link to Portfolio Site](https://cherjios.github.io/React-Portfolio/)
-- [Link to Github](https://github.com/cherjios)
 
 
 ## Questions
