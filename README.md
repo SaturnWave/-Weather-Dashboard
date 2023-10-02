@@ -5,8 +5,7 @@ Weather Dashboard that retrieves data form another application's API.
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ```
-$ git clone git@github.com:Cherjios/06-Server-Side-APIs-Weather-Dashboard.git
-$ cd 06-Server-Side-APIs-Weather-Dashboard.git
+
 ```
 Then open in your preferred text editor:
 - [vim](https://www.vim.org/) 
